@@ -5,10 +5,10 @@
 **Contract address** : https://rinkeby.etherscan.io/address/0x4f9f2d53935f4d6320943787832bc299b98c003f
 
 ## Development Environment Version
-**Node version number** :  v8.9.4
-**Truffle version number** : v5.1.18 (core: 5.1.18)
-**Web3 version number** : v1.2.1
-**Solidity version** : v0.5.16 (solc-js)
+* **Node version number** :  v8.9.4
+* **Truffle version number** : v5.1.18 (core: 5.1.18)
+* **Web3 version number** : v1.2.1
+* **Solidity version** : v0.5.16 (solc-js)
 
 ## Project Deployment Procedure
 
