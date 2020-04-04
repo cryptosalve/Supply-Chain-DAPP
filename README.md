@@ -21,7 +21,7 @@
   * npm run dev
 * Test DApp in browserhttp://localhost:3000/
 
-**For Rinkeby network
+**For Rinkeby network**
 
 * Create a .env file in the root directory. Add environment-specific variables on new lines in the form of NAME=VALUE
 * WALLET_MNEMONIC='Your Mnemonic goes here'
