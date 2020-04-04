@@ -1,0 +1,5 @@
+{
+  "server": {
+    "baseDir": ["./","./src", "./Supply Chain Dapp_V2/build/contracts"]
+  }
+}
