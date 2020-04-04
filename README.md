@@ -1,8 +1,8 @@
 # Ethereum Coffee Supply Chain DAPP
 
 ## Address on Rinkeby
-**Transaction ID** : 0x856f77562c2d9d5de5dcb95eec1e938e6dd01f5982e9be4389a0c296077a0dca
-**Contract address** : https://rinkeby.etherscan.io/address/0x4f9f2d53935f4d6320943787832bc299b98c003f
+* **Transaction ID** : 0x856f77562c2d9d5de5dcb95eec1e938e6dd01f5982e9be4389a0c296077a0dca
+* **Contract address** : https://rinkeby.etherscan.io/address/0x4f9f2d53935f4d6320943787832bc299b98c003f
 
 ## Development Environment Version
 * **Node version number** :  v8.9.4
