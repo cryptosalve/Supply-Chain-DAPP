@@ -32,6 +32,6 @@
   * truffle test
 * Run local server with the following command:
   * npm run dev
-  * Test DApp in browserhttp://localhost:3000/
+  * Test DApp in browser http://localhost:3000/
 
 Notes: In order to test this DApp in browser, you need MetaMask installed
